@@ -54,14 +54,9 @@ python main.py
 
 # Models
 
-* [CLI Checkpoints](https://drive.google.com/open?id=1w6ZO47To4BGh67WjeFCTBZiGVMFrK_po): *you should download the three .lib files before running the program. Then create a dir named 'checkpoints' under the root dir of the project. Put the three downloaded files to the 'checkpoints' dir*
+* [Google Drive](https://drive.google.com/drive/folders/1OKuIp0nxMUucgEScTc2vESvlpKzIWav4?usp=sharing): *you should download the three .lib files before running the program. Then create a dir named 'checkpoints' under the root dir of the project. Put the three downloaded files to the 'checkpoints' dir*
 
-* [magnet link for backup](magnet:?xt=urn:btih:7BE4EB8D640742D2FFEBD6495E9392E9E2C399BC)：
-```
-magnet:?xt=urn:btih:7BE4EB8D640742D2FFEBD6495E9392E9E2C399BC
-```
 
-if the google drive link is invalid, you can use the magnet link, which can download quite fast.:)
 
 
 # Launch the script
