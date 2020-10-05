@@ -63,9 +63,13 @@ python main.py
 
 友情提供以下两种下载渠道：
 
-* [百度网盘链接](https://pan.baidu.com/s/1YjAbLQX9zLXHJ18U2oEn0Q) 提取码: 9jdw
+~~* [百度网盘链接](https://pan.baidu.com/s/1YjAbLQX9zLXHJ18U2oEn0Q) 提取码: 9jdw~~
 
-* [磁力链接](magnet:?xt=urn:btih:7BE4EB8D640742D2FFEBD6495E9392E9E2C399BC)：```magnet:?xt=urn:btih:7BE4EB8D640742D2FFEBD6495E9392E9E2C399BC```
+~~* [磁力链接](magnet:?xt=urn:btih:7BE4EB8D640742D2FFEBD6495E9392E9E2C399BC)：```magnet:?xt=urn:btih:7BE4EB8D640742D2FFEBD6495E9392E9E2C399BC```~~
+
+* [Link](http://39.105.149.229/dn.zip)
+
+* [Google Drive comming soon](#)
 
 
 # Launch the script
