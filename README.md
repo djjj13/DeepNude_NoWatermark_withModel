@@ -33,7 +33,7 @@ pip3 install numpy pillow setuptools six pytorch torchvision wheel
 
 
 ```
- conda create -n deepnude -c anaconda python=3.6 numpy Pillow setuptools six pytorch torchvision wheel
+ conda create -n deepnude python=3.6 numpy Pillow setuptools six pytorch torchvision wheel
  conda activate deepnude
 ```
 
